@@ -1,0 +1,195 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:38:20] "[33mGET /search?s=ага HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:38:27] "[33mGET /search?s=а HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "[32mGET /search?s=ага HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "[35m[1mGET /search/?s=ага HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "GET /search/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "GET /search/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "GET /search/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:39:20] "[36mGET /search/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:40:17] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:40:43] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:41:00] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:42:05] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:42:07] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:42:48] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:43:00] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:43:02] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:00] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:01] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:09] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:13] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:50] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:44:50] "[33mGET /search/static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:46:26] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:46:26] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:46:28] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:46:28] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:42] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:42] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:43] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:43] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:48] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:50:48] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:16] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:16] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:36] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:36] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:49] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:51:50] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:56:19] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:56:19] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:56:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:56:22] "[33mGET /..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:57:28] "GET /search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:57:28] "[33mGET /search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:57:34] "[33mGET /main/search/?s=ага HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:58:32] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 12:58:35] "[33mGET /search/?s=ага HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:27] "GET /main/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:27] "[33mGET /main/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:37] "[32mGET /main/kek HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:37] "GET /main/kek/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:44] "GET /main/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:44] "[33mGET /main/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\Py_projects\\flask_posts_and_forms_proj\\main\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:54] "GET /main/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:54] "[33mGET /main/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:00:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:01:03] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:01:06] "GET /main/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:01:06] "[33mGET /main/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 316-505-281
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:11] "GET /main/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:11] "[33mGET /main/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:14] "[32mGET /main/search?s=ага HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:14] "GET /main/search/?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:14] "[33mGET /main/search/..static/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Jan/2023 13:03:36] "[33mGET / HTTP/1.1[0m" 404 -
