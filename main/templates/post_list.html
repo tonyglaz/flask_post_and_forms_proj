@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <title>Реузльтаты поиска </title>
-    <link href="..static/style.css" rel="stylesheet">
+    <link href="../../static/style.css" rel="stylesheet">
 </head>
 <body>
 <main>
-    <a class="link" href="index.html">Назад</a>
+    <a class="button" href="/main">Назад</a>
     <h1>Посты по запросу '{{ search_by}}'</h1>
     {% for post in posts %}
     <div class="post">
@@ -16,7 +16,7 @@
     </div>
     <hr>
     {% endfor %}
-    <a class="button" href="post_form.html">Добавить пост</a>
+    <a class="button" href="/post/form/">Добавить пост</a>
 </main>
 </body>
 </html>
